@@ -3,18 +3,18 @@ ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
+    background-color: #1a1919;
   }
   
   li a {
     display: block;
-    color: #000;
+    color: rgb(243, 242, 242);
     padding: 8px 16px;
     text-decoration: none;
   }
   
   /* Change the link color on hover */
   li a:hover {
-    background-color: #555;
+    background-color: rgb(5, 5, 5);
     color: white;
   }
